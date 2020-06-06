@@ -1,6 +1,10 @@
 {
-  "name": "Coding advice",
+  "name": "Coding Advice",
   "description" : "Random coding advice when opens a new Chrome tab.",
   "version": "0.0.0",
-  "manifest_version": 2
+  "manifest_version": 2,
+  "chrome_url_overrides": {
+    "newtab": "coding-advice.html"
+  },
+  "permissions": ["tabs"]
 }
