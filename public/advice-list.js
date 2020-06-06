@@ -14,7 +14,7 @@ export default
       "An aggregate will have one of its component objects be the aggregate root.",
       "The aggregate root must ensure the integrity of the aggregate as a whole.",
       "Use domain events to explicitly implement side effects across multiple aggregates.",
-      "Anti Corruption Layer is used when the downstream model don’t want to be affected by an upstream model",
+      "Anti Corruption Layer is used when the downstream model don’t want to be affected by an upstream model.",
       "Aggregate rule of thumb: Protect business invariants inside aggregate boundaries.",
       "Aggregate rule of thumb: Design small aggregates.",
       "Aggregate rule of thumb: Reference other aggregates by identity only.",
@@ -61,7 +61,7 @@ export default
       "Logs, metrics, and traces are often known as the three pillars of observability.",
       "Testing is a best-effort verification of the correctness of a system.",
       "Testing is a best-effort simulation of failure modes.",
-      "Coding for failure entails acknowledging that systems will fail",
+      "Coding for failure entails acknowledging that systems will fail.",
       "Failure needs to be embraced at every phase, from system design to implementation, testing, deployment, and, finally, operation.",
     ]
   },
@@ -71,7 +71,7 @@ export default
       "Reliability: Continuing to work correctly, even when things go wrong.",
       "Systems that anticipate faults and cope with them are called fault-tolerant or resilient.",
       "Allow quick an easy recovery from human errors, to minimize the impact in the case of a failure.",
-      "Monitoring can show us ealy warning signals",
+      "Monitoring can show us ealy warning signals.",
       "When a problem occurs, metrics can be invaluable in diagnosing the issue.",
       "Scalability is the term used to describe a system's ability to cope with incrased load.",
       "Reliability means making sytems work correctly, even when faults occur.",
@@ -82,14 +82,14 @@ export default
   {
     "topic": "Algorithms and Data Structures",
     "advices": [
-      "Big O notation allows us to analyze and improve the efficiency of our algorithms",
+      "Big O notation allows us to analyze and improve the efficiency of our algorithms.",
     ]
   },
   {
     "topic": "Personal Growth and Leadership",
     "advices": [
       "If you don’t like reading, you’re reading the wrong books.",
-      "You’ve got 90 days to change culture before it starts changing you",
+      "You’ve got 90 days to change culture before it starts changing you.",
       "The bad thing about winning is that it doesn't teach you as much as losing.",
     ]
   },
@@ -106,7 +106,7 @@ export default
       "Smile.",
       "Be a good listener. Encourage others to talk about themselves.",
       "The only way to get the best of an argument is to avoid it.",
-      "Show respect for the other person's opinion. Never say, \"you're wrong.\"",
+      "Show respect for the other person's opinion. Never say, \"you're wrong\".",
       "If you are wrong, admit it quickly and emphatically.",
       "Try to see things from the other person's point of view.",
       "Be sympathetic with the other person's ideas and desires.",
