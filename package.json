@@ -1,0 +1,14 @@
+{
+  "name": "coding-advice-extension",
+  "version": "1.0.0",
+  "description": "Prints a random codigin advice when new chrome tab opens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "safv12",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.2.0"
+  }
+}
