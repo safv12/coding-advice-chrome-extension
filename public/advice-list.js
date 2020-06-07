@@ -113,5 +113,12 @@ export default
       "Ask questions instead of giving direct orders.",
       "Give the other person a fine reputation to live up to.",
     ]
+  },
+  {
+    "topic": "Reviewing Code",
+    "advices": [
+      "Pull request needs to do just one thing.",
+      "Automate as many checks as possible.",
+    ]
   }
 ]
