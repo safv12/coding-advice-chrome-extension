@@ -120,5 +120,13 @@ export default
       "Pull request needs to do just one thing.",
       "Automate as many checks as possible.",
     ]
+  },
+  {
+    "topic": "Mindfulness",
+    "advices": [
+      "Two skills define a mindful mind: focus and awareness.",
+      "Focus is the ability to concentrate on what you’re doing in the moment.",
+      "Awareness is the ability to recognize and release unnecessary distractions as they arise."
+    ]
   }
 ]
