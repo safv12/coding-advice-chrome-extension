@@ -86,32 +86,9 @@ export default
     ]
   },
   {
-    "topic": "Personal Growth and Leadership",
-    "advices": [
-      "If you don’t like reading, you’re reading the wrong books.",
-      "You’ve got 90 days to change culture before it starts changing you.",
-      "The bad thing about winning is that it doesn't teach you as much as losing.",
-    ]
-  },
-  {
     "topic": "Chaos Engineering",
     "advices": [
       "Failure is inevitable, disaster not."
-    ]
-  },
-  {
-    "topic": "Dale Carnagie",
-    "advices": [
-      "Don't criticize, condemn or complain.",
-      "Smile.",
-      "Be a good listener. Encourage others to talk about themselves.",
-      "The only way to get the best of an argument is to avoid it.",
-      "Show respect for the other person's opinion. Never say, \"you're wrong\".",
-      "If you are wrong, admit it quickly and emphatically.",
-      "Try to see things from the other person's point of view.",
-      "Be sympathetic with the other person's ideas and desires.",
-      "Ask questions instead of giving direct orders.",
-      "Give the other person a fine reputation to live up to.",
     ]
   },
   {
