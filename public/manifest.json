@@ -6,5 +6,11 @@
   "chrome_url_overrides": {
     "newtab": "coding-advice.html"
   },
-  "permissions": ["tabs"]
+  "permissions": ["tabs"],
+  "icons": {
+    "16": "images/icon16.png",
+    "32": "images/icon32.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  }
 }
